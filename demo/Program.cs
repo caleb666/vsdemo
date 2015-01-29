@@ -10,7 +10,8 @@ namespace demo
     {
         static void Main(string[] args)
         {
-            //Changes on the main branch from VS2013
+            //Changes on the main branch from VS2013 
+            //v2.0 changes
         }
     }
 }

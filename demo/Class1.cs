@@ -8,5 +8,7 @@ namespace demo
 {
     class Class1
     {
+
+        //changes introduced in branch v2.0
     }
 }
