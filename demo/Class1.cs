@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace demo
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-            //Changes on the main branch from VS2013
-        }
     }
 }
